@@ -11,4 +11,13 @@ Estou aprendendo mais sobre diferentes linguagens de programação, porém possu
 * Estudando Python
 
 Atualmente estou desenvolvendo projetos para aprimorar minhas habilidades em programação
+
 #Tecnologias
+
+* Python
+* JavaScript
+* HTML
+* CSS
+* GIT
+* Github
+* SQL
