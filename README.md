@@ -12,7 +12,7 @@ Estou aprendendo mais sobre diferentes linguagens de programação, porém possu
 
 Atualmente estou desenvolvendo projetos para aprimorar minhas habilidades em programação
 
-#Tecnologias
+##Tecnologias
 
 * Python
 * JavaScript
