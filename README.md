@@ -1,8 +1,8 @@
 # README.
 Olá, meu nome é Raphael, atualmente tenho 15 anos e busco constriuir uma carreira profissional na área de tecnologia
-Esse é o meu perfil do github, projetos e informações sobre o meu perfil profissional vão ficar aqui
+Esse é o meu perfil do github, projetos e informações sobre o meu perfil profissional vão ficar aqui!
 ## Veja alguns de meus projetos:
-* (projeto1)
+* (https://github.com/Raphael-Rocha89/Projeto-1---Sistema-de-Usuarios) (Em desenvolvimento)
 * (projeto2)
 * (projeto3)
 
