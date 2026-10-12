@@ -4,7 +4,7 @@ Esse é o meu perfil do github, projetos e informações sobre o meu perfil prof
 ## Alguns de meus projetos:
 * https://github.com/Raphael-Rocha89/Projeto-1---Sistema-de-Usuarios (Em desenvolvimento)
 * https://github.com/Raphael-Rocha89/Projeto-Feira-Tec_26 (Em desenvolvimento)
-* (projeto3)
+
 
 Estou aprendendo mais sobre diferentes linguagens de programação, porém tenho maior interesse em:
 * HTML, CSS e JavaScript (front end)
